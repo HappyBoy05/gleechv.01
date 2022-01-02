@@ -10,7 +10,3 @@ python-dotenv
 psutil
 https://github.com/pyrogram/pyrogram/archive/asyncio-dev.zip
 git+git://github.com/TGExplore/youtube-dl.git
-© 2022 GitHub, Inc.
-Terms
-Privacy
-Security
